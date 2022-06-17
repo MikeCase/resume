@@ -13,11 +13,7 @@ My current goal is to find a position as a Jr. Python developer. I am a self tau
 * Learning
 * Python
     - OOP
-        - Limited experience with software design patterns such as
-        - MVC (Model View Controller) design pattern
-        - Factory design pattern
-        - Singleton design pattern
-        - Composite design pattern
+    - Data Structures
     - Web Development
     - Scripting
     - Automation
@@ -44,22 +40,13 @@ My current goal is to find a position as a Jr. Python developer. I am a self tau
 ## Personal projects
 
 * [Docker FastAPI Integration](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8)
-   - This is an article I wrote documenting my steps toward integrating FastAPI with a docker container. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
+    - This is an article I wrote documenting my steps toward integrating FastAPI with a docker container. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
 * [mkvhost](https://github.com/MikeCase/mkvhost)
-  - This project is to help create virtual hosts with nginx. Also uses the Cloudflare API to create a publicly available sub-domain. (Python - [Github Link](https://github.com/MikeCase/mkvhost))
+    - This project is to help create virtual hosts with nginx. Also uses the Cloudflare API to create a publicly available sub-domain. (Python - [Github Link](https://github.com/MikeCase/mkvhost))
 * [WorkLog](https://github.com/MikeCase/workLog)
-   - This project focuses on the collection of data for later use. I'm using Tkinter for the interface and connecting to the NHTSA database to collect vehicle information via the VIN(Vehicle Identification Number). It will then allow you to collect Diagnostic Trouble Codes from the vehicle and display them on the screen. (Python - [Github Link](https://github.com/MikeCase/workLog))
+    - This project focuses on the collection of data for later use. I'm using Tkinter for the interface and connecting to the NHTSA database to collect vehicle information via the VIN(Vehicle Identification Number). It will then allow you to collect Diagnostic Trouble Codes from the vehicle and display them on the screen. (Python - [Github Link](https://github.com/MikeCase/workLog))
 * [no-frills-portscanner](https://github.com/MikeCase/no-frills-portscanner)
-   - I wanted to get some experience with the dearpygui Python module and made something with a (IMHO) nicer gui than I can get with Tkinter. (Python - [Github Link](https://github.com/MikeCase/no-frills-portscanner))
-
-## Self Education
-
-* [codewars.com](https://www.codewars.com)
-  - I enjoy going through this website and working on various coding challenges from time to time
-* [youtube.com](https://www.youtube.com)
-  - I spend a lot of time watching different youtube channels related to computer science in general
-* [All Mighty Google](https://www.google.com)
-  - I'm convinced every answer you could possibly ask a question for is here.
+    - I wanted to get some experience with the dearpygui Python module and made something with a (IMHO) nicer gui than I can get with Tkinter. (Python - [Github Link](https://github.com/MikeCase/no-frills-portscanner))
 
 ## Professional Experience
 
