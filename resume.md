@@ -31,9 +31,9 @@ My current goal is to find a position as a Jr. level Python developer. I am a se
     - Windows
 * JavaScript
     - NextJs
-    - P5Js
-    - VueJs
     - ReactJs
+    - VueJs
+    - P5Js
 
 ## Education
 
@@ -44,7 +44,7 @@ My current goal is to find a position as a Jr. level Python developer. I am a se
 ## Personal projects
 
 * [Docker FastAPI Integration](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8)
-   - This is an article I wrote describing my steps toward integrating FastAPI with a docker container. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
+   - This is an article I wrote documenting my steps toward integrating FastAPI with a docker container. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
 * [mkvhost](https://github.com/MikeCase/mkvhost)
   - This project is to help create virtual hosts with nginx. Also uses the Cloudflare API to create a publicly available sub-domain. (Python - [Github Link](https://github.com/MikeCase/mkvhost))
 * [WorkLog](https://github.com/MikeCase/workLog)
