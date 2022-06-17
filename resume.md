@@ -1,11 +1,39 @@
-## Background
+## Contact Info
 
-I served my country for several years in the U. S. Army. After 10 years and 3 deployments I decided it was time for me to chase my dreams. Circa 1993 I started getting very involved and passionate with computers. particularly what I could make them do for me. I taught myself Visual Basic 3.0 and worked with Visual Basic all the way up to version 6.0 after that I moved on to PHP and currently I'm working with Python, Go, Godot and Dart/Flutter I am self taught and don't consider myself a master but I am very well rounded and quite capable of learning. I also have some experience with docker and I have experience with JavaScript and frontend development (not so much front end design). My current website which is highly lacking on design is a custom written application in Python with Flask. I setup and configured the server on a linode micro instance using NGinX, gunicorn and the Ubuntu Server distribution of linux. I have used linux for many years as a personal server and workstation at times. I would be very passionate about a career in the IT field and continue to learn and expand my knowledge. I am willing to start at a junior level so I can learn the industry as the knowledge I have is all self taught.
+1. [LinkedIn](https://www.linkedin.com/in/michael-case-74763022/)
+2. [Github Profile](https://www.github.com/MikeCase)
+3. [dev.to Profile](https://dev.to/mikecase)
+## Objective
 
-## Interests
+My current goal is to find a position as a Jr. level Python developer. I am a self taught Python developer that has used many different programming languages over the years. Everything from Visual Basic to JavaScript to BASH to Python. 
 
-* Python, Python, Python and Python.
-* JavaScript too (Currently working with nextJs)
+## Skills
+
+* Problem Solving
+* Learning
+* Python
+    - OOP
+        - Limited experience with software design patterns such as
+        - MVC (Model View Controller) design pattern
+        - Factory design pattern
+        - Singleton design pattern
+        - Composite design pattern
+    - Web Development
+    - Scripting
+    - Automation
+* DevOps
+    - Docker
+    - Proxmox
+    - Bash
+    - Linux
+    - Virtual Machines
+    - Nginx-Proxy-Manager
+    - Windows
+* JavaScript
+    - NextJs
+    - P5Js
+    - VueJs
+    - ReactJs
 * Fishing
 
 ## Education
@@ -14,40 +42,42 @@ I served my country for several years in the U. S. Army. After 10 years and 3 de
     - Associates of Science
     - 2017 - 2019
 
-## Projects
+## Personal projects
 
-A list of personal projects I've been working on when I have free time.
+> * [Docker FastAPI Integration](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8)
+>    - This was the code for an article I wrote on [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) regarding this particular integration. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
+> * [mkvhost](https://github.com/MikeCase/mkvhost)
+>   - This is a project that I started awhile back to help create virtual hosts. Before I started using docker and nginx-proxy-manager. (Python - [Github Link](https://github.com/MikeCase/mkvhost))
+> * [WorkLog](https://github.com/MikeCase/workLog)
+>    - This project I started as a means of keeping track of vehicles I work on (Currently a mechanic). This was written with python and tkinter. I'm currently workshopping a web based version. (Python - [Github Link](https://github.com/MikeCase/workLog))
+> * [no-frills-portscanner](https://github.com/MikeCase/no-frills-portscanner)
+>    - I wanted to get some experience with dearpygui and made something with a (IMHO) nicer gui than I can get with tkinter. (Python - [Github Link](https://github.com/MikeCase/no-frills-portscanner))
+> * [Website frontend](https://github.com/MikeCase/website-frontend-nextjs)
+>    - This is a front end for a resume API that I started on and have yet to finish. The backend is FastAPI and mongoDB (JavaScript - [Github Link](https://github.com/MikeCase/website-frontend-nextjs))
 
-* [mkvhost](https://github.com/MikeCase/mkvhost)
-    - This is a project that I started awhile back to help create virtual hosts. Before I started using docker and nginx-proxy-manager. (Python - [Github Link](https://github.com/MikeCase/mkvhost))
-* [WorkLog](https://github.com/MikeCase/workLog)
-    - This project I started as a means of keeping track of vehicles I work on (Currently a mechanic). This was written with python and tkinter. I'm currently workshopping a web based version. (Python - [Github Link](https://github.com/MikeCase/workLog))
+### Self Education
 
-* [no-frills-portscanner](https://github.com/MikeCase/no-frills-portscanner)
-    - I wanted to get some experience with dearpygui and made something with a (IMHO) nicer gui than I can get with tkinter. (Python - [Github Link](https://github.com/MikeCase/no-frills-portscanner))
-* [Docker FastAPI Integration](https://github.com/MikeCase/fastapi-docker)
-    - This was the code for an article I wrote on [dev.to](https://www.dev.to) regarding this particular integration. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
-* [Website frontend](https://github.com/MikeCase/website-frontend-nextjs)
-    - This is a front end for a resume API that I started on and have yet to finish. The backend is FastAPI and mongoDB (JavaScript - [Github Link](https://github.com/MikeCase/website-frontend-nextjs))
-
-I also recently found [codewars.com](https://www.codewars.com) and have started working on Python Code Katas.
+> * [codewars.com](https://www.codewars.com)
+>   - I enjoy going through this website and working on code katas from time to time
+> * [youtube.com](https://www.youtube.com)
+>   - I spend a lot of time watching different youtube channels related to computer science in general
+> * [All Mighty Google](https://www.google.com)
+>   - I'm convinced every answer you could possibly ask a question for is here.
 
 ## Professional Experience
 
-* Freelance web developer
-    - [Oath INC.](https://www.oathinc.org)
-    - June 2014 - October 2018
-    - I helped begin their web presence. In 2014 they came to me for a website. I set them up with a wordpress website with a custom theme. I consulted and handled all IT infrastructure.
-
-* Jr. Software Engineer
-    - Light Communications
-    - January 2000 - January 2001
-    - I helped write documentation and make changed to their php code for Cisco Collaboration Server. Their needs required making changes to PHP code for the front end to match the company brand. Also writing documentation for how to use it.
-
-* Business Tech.
-    - Cyberhighway / Usurf America
-    - January 1999 - January 2000
-    - I provided technical support to their business customers. Both over the phone and on-site. Also wrote and implemented the use of their call tracking software.
+> * Freelance web developer
+>     - [Oath INC.](https://www.oathinc.org)
+>     - June 2014 - October 2018
+>     - I helped begin their web presence. In 2014 they came to me for a website. I set them up with a wordpress website with a custom theme. I consulted and handled all IT infrastructure.
+> * Jr. Software Engineer
+>     - Light Communications
+>     - January 2000 - January 2001
+>     - I helped write documentation and make changed to their php code for Cisco Collaboration Server. Their needs required making changes to PHP code for the front end to match the company brand. Also writing documentation for how to use it.
+> * Business Tech.
+>     - Cyberhighway / Usurf America
+>     - January 1999 - January 2000
+>     - I provided technical support to their business customers. Both over the phone and on-site. Also wrote and implemented the use of their call tracking software.
 
 ## Work History
 
