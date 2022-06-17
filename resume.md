@@ -5,7 +5,7 @@
 3. [dev.to](https://dev.to/mikecase)
 ## Objective
 
-My current goal is to find a position as a Jr. level Python developer. I am a self taught Python developer that has used many different programming languages over the years. Everything from Visual Basic to JavaScript to BASH to Python.
+My current goal is to find a position as a Jr. Python developer. I am a self taught Python developer that has used many different programming languages over the years. Everything from Visual Basic to JavaScript to BASH to Python.
 
 ## Skills
 
