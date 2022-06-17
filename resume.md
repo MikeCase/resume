@@ -45,7 +45,7 @@ My current goal is to find a position as a Jr. level Python developer. I am a se
 ## Personal projects
 
 > * [Docker FastAPI Integration](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8)
->    - This was the code for an article I wrote on [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) regarding this particular integration. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
+>    - This is an article I wrote describing my steps toward integrating FastAPI with a docker container. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
 > * [mkvhost](https://github.com/MikeCase/mkvhost)
 >   - This is a project that I started awhile back to help create virtual hosts. Before I started using docker and nginx-proxy-manager. (Python - [Github Link](https://github.com/MikeCase/mkvhost))
 > * [WorkLog](https://github.com/MikeCase/workLog)
