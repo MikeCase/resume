@@ -19,19 +19,21 @@ Problem Solving, Learning, OOP, Data Structures, Web Development, Scripting, Aut
 ## Personal projects
 
 * [Docker FastAPI Integration](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) (https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8)
-    - This is an article I wrote documenting my steps toward integrating FastAPI with a docker container. (Python/Docker - [Github Link](https://github.com/MikeCase/fastapi-docker) | [dev.to](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) article)
+    - This is an article I wrote documenting my steps toward integrating FastAPI with a docker container.
 * [mkvhost](https://github.com/MikeCase/mkvhost) (https://github.com/MikeCase/mkvhost)
-    - This project is to help create virtual hosts with nginx. Also uses the Cloudflare API to create a publicly available sub-domain. With this I can spin up a dev site for customers to view the progress of their web app.(Python - [Github Link](https://github.com/MikeCase/mkvhost))
+    - This project is to help create virtual hosts with nginx. Also uses the Cloudflare API to create a publicly available sub-domain. With this I can spin up a dev site for customers to view the progress of their web app.
 * [WorkLog](https://github.com/MikeCase/workLog) (https://github.com/MikeCase/workLog)
-    - This project focuses on the collection of data for later use. I'm using Tkinter for the interface and connecting to the NHTSA database to collect vehicle information via the VIN(Vehicle Identification Number). It will then allow you to collect Diagnostic Trouble Codes from the vehicle and display them on the screen(if you have the proper ELM327/STM1105 obdII dongle.). (Python - [Github Link](https://github.com/MikeCase/workLog))
+    - This project focuses on the collection of data for later use. I'm using Tkinter for the interface and connecting to the NHTSA database to collect vehicle information via the VIN(Vehicle Identification Number). It will then allow you to collect Diagnostic Trouble Codes from the vehicle and display them on the screen(if you have the proper ELM327/STM1105 obdII dongle.). 
 * [no-frills-portscanner](https://github.com/MikeCase/no-frills-portscanner) (https://github.com/MikeCase/no-frills-portscanner)
-    - I wanted to get some experience with the dearpygui Python module and made something with a (IMHO) nicer gui than I can get with Tkinter. (Python - [Github Link](https://github.com/MikeCase/no-frills-portscanner))
+    - I wanted to get some experience with the dearpygui Python module and made something with a (IMHO) nicer gui than I can get with Tkinter. 
 * [C# Port Scanner](https://github.com/MikeCase/BasicPortScanner) (https://github.com/MikeCase/BasicPortScanner)
     - Another port scanner I wrote using C# with Async/Await.
 * [emailer](https://github.com/MikeCase/emailer) (https://github.com/MikeCase/emailer)
     - Email library I made for SMTPLib in python. It makes the use of SMTPLib a little simpler to user.
 * [Flappy Dragon](https://github.com/MikeCase/flappy-dragon) (https://github.com/MikeCase/flappy-dragon)
     - Flappy Bird clone I wrote in C++ while learning C++ and the raylib game library.
+* [ShareLinks](https://github.com/MikeCase/sharelinks) (https://github.com/MikeCase/sharelinks)
+    - Google Chrome (and Chrome derivatives) extension to get a QRCode of the current page your viewing in your browser.
 
 ## Professional Experience
 
