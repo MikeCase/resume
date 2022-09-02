@@ -5,31 +5,10 @@
 3. [dev.to](https://dev.to/mikecase)
 ## Objective
 
-My current goal is to find a position as a Jr. Python developer. I am a self taught Python developer that has used many different programming languages over the years. Everything from Visual Basic to JavaScript to BASH to Python.
+Junior Software Developer with several years of experience in the Technology domain looking for a development position. Supportive and enthusiastic team player dedicated to efficiently resolving project issues. Ability and willingness to innovate and learn new technologies, quick learner passionate about development. Capable of applying knowledge of programming to multiple languages.
 
 ## Skills
-
-* Problem Solving
-* Learning
-* Python
-    - OOP
-    - Data Structures
-    - Web Development
-    - Scripting
-    - Automation
-* DevOps
-    - Docker
-    - Proxmox
-    - Bash
-    - Linux
-    - Virtual Machines
-    - Nginx-Proxy-Manager
-    - Windows
-* JavaScript
-    - NextJs
-    - ReactJs
-    - VueJs
-    - P5Js
+Problem Solving, Learning, OOP, Data Structures, Web Development, Scripting, Automation, Docker, Proxmox, Ansible, Bash, Linux, Windows, MacOS, Virtual Machines, PHP, BASH, Python, Javascript, C, C++, C#, Java, HTML, CSS, SQL, Visual Studio, Research, MarkDown, Backend Development
 
 ## Education
 
@@ -47,6 +26,12 @@ My current goal is to find a position as a Jr. Python developer. I am a self tau
     - This project focuses on the collection of data for later use. I'm using Tkinter for the interface and connecting to the NHTSA database to collect vehicle information via the VIN(Vehicle Identification Number). It will then allow you to collect Diagnostic Trouble Codes from the vehicle and display them on the screen. (Python - [Github Link](https://github.com/MikeCase/workLog))
 * [no-frills-portscanner](https://github.com/MikeCase/no-frills-portscanner)
     - I wanted to get some experience with the dearpygui Python module and made something with a (IMHO) nicer gui than I can get with Tkinter. (Python - [Github Link](https://github.com/MikeCase/no-frills-portscanner))
+* [C# Port Scanner](https://github.com/MikeCase/BasicPortScanner)
+    - Another port scanner I wrote using C# with Async/Await.
+* [emailer](https://github.com/MikeCase/emailer)
+    - Email library I made for SMTPLib in python. It makes the use of SMTPLib a little simpler to user.
+* [Flappy Dragon](https://github.com/MikeCase/flappy-dragon)
+    - Flappy Bird clone I wrote in C++ while learning C++ and the raylib game library.
 
 ## Professional Experience
 
