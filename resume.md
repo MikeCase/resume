@@ -52,7 +52,7 @@ Problem Solving, Learning, OOP, Data Structures, Web Development, Scripting, Aut
 
 * AutoExperts
     - Automotive Mechanic
-    - 2021 - 2022
+    - 2021 - Present
 
 * WillsPoint Ford
     - Automotive Mechanic
