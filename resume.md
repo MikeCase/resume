@@ -1,14 +1,33 @@
-## Contact Me
+## Michael Case
 
-1. [LinkedIn](https://www.linkedin.com/in/michael-case-74763022/) (https://www.linkedin.com/in/michael-case-74763022)
-2. [Github](https://www.github.com/MikeCase) (https://www.github.com/MikeCase)
-3. [dev.to](https://dev.to/mikecase) (https://dev.to/mikecase)
+- [LinkedIn](https://www.linkedin.com/in/michael-case-74763022/) (https://www.linkedin.com/in/michael-case-74763022)
+- [GitHub](https://www.github.com/MikeCase) (https://www.github.com/MikeCase)
+- [dev.to](https://dev.to/mikecase) (https://dev.to/mikecase)
+- [mikescave.us](https://mikescave.us) (https://mikescave.us)
+
+---
+
 ## Objective
 
-Junior Software Developer with several years of experience in the Technology domain looking for a development position. Supportive and enthusiastic team player dedicated to efficiently resolving project issues. Ability and willingness to innovate and learn new technologies, quick learner passionate about development. Capable of applying knowledge of programming to multiple languages.
+Technical generalist with hands-on experience across infrastructure, automation, and backend development. Comfortable building, deploying, and maintaining systems end-to-end — from configuring servers and networks to writing the services that run on them. Looking for a role where I can apply Versatility and automation skills to reduce toil and improve reliability.
+
+---
 
 ## Skills
-Problem Solving, Learning, OOP, Data Structures, Web Development, Scripting, Automation, Docker, Proxmox, Ansible, Bash, Linux, Windows, MacOS, Virtual Machines, PHP, BASH, Python, Javascript, C, C++, C#, Java, HTML, CSS, SQL, Visual Studio, Research, MarkDown, Backend Development
+
+**Languages & Scripting**
+Python, PHP, Bash, JavaScript, C, C++, C#, Java, SQL
+
+**Infra & DevOps**
+Docker, Ansible, Proxmox, Linux, Apache, nginx, Caddy, Cloudflare API, Virtual Machines
+
+**Frameworks & Backends**
+Flask, FastAPI, Laravel, HTML, CSS
+
+**Concepts**
+Backend Development, Web Development, Automation, Scripting, CI/CD mindset, Self-taught
+
+---
 
 ## Education
 
@@ -16,79 +35,62 @@ Problem Solving, Learning, OOP, Data Structures, Web Development, Scripting, Aut
     - Associates of Science
     - 2017 - 2019
 
-## Personal projects
+---
 
-* [Docker FastAPI Integration](https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8) (https://dev.to/mikecase/python-development-environment-in-a-docker-container-4hg8)
-    - This is an article I wrote documenting my steps toward integrating FastAPI with a docker container.
-* [mkvhost](https://github.com/MikeCase/mkvhost) (https://github.com/MikeCase/mkvhost)
-    - This project is to help create virtual hosts with nginx. Also uses the Cloudflare API to create a publicly available sub-domain. With this I can spin up a dev site for customers to view the progress of their web app.
-* [WorkLog](https://github.com/MikeCase/workLog) (https://github.com/MikeCase/workLog)
-    - This project focuses on the collection of data for later use. I'm using Tkinter for the interface and connecting to the NHTSA database to collect vehicle information via the VIN(Vehicle Identification Number). It will then allow you to collect Diagnostic Trouble Codes from the vehicle and display them on the screen(if you have the proper ELM327/STM1105 obdII dongle.). 
-* [no-frills-portscanner](https://github.com/MikeCase/no-frills-portscanner) (https://github.com/MikeCase/no-frills-portscanner)
-    - I wanted to get some experience with the dearpygui Python module and made something with a (IMHO) nicer gui than I can get with Tkinter. 
-* [C# Port Scanner](https://github.com/MikeCase/BasicPortScanner) (https://github.com/MikeCase/BasicPortScanner)
-    - Another port scanner I wrote using C# with Async/Await.
-* [emailer](https://github.com/MikeCase/emailer) (https://github.com/MikeCase/emailer)
-    - Email library I made for SMTPLib in python. It makes the use of SMTPLib a little simpler to user.
-* [Flappy Dragon](https://github.com/MikeCase/flappy-dragon) (https://github.com/MikeCase/flappy-dragon)
-    - Flappy Bird clone I wrote in C++ while learning C++ and the raylib game library.
-* [ShareLinks](https://github.com/MikeCase/sharelinks) (https://github.com/MikeCase/sharelinks)
-    - Google Chrome (and Chrome derivatives) extension to get a QRCode of the current page your viewing in your browser.
+## Technical Experience
 
-## Professional Experience
-
-* Freelance web developer
+* Freelance Web Developer / IT Consultant
     - [Oath INC.](https://www.oathinc.org) (https://www.oathinc.org)
     - June 2014 - October 2018
-    - I helped begin their web presence. In 2014 they came to me for a website. I set them up with a wordpress website with a custom theme. I consulted and handled all IT infrastructure.
-* Jr. Software Engineer
-    - Light Communications
-    - January 2000 - January 2001
-    - I helped write documentation and make changes to their php code for Cisco Collaboration Server. Their needs required making changes to PHP code for the front end to match the company brand. Also writing documentation for how to use it.
-* Business Tech.
+    - Designed and deployed WordPress sites with custom themes. Managed all IT infrastructure including servers, DNS, and networking. Handled client-facing technical consultations from discovery through delivery and ongoing maintenance.
+
+* Network Engineer / IT Support
     - Cyberhighway / Usurf America
-    - January 1999 - January 2000
-    - I provided technical support to their business customers. Both over the phone and on-site. Also wrote and implemented the use of their call tracking software.
-
-## Work History
-
-* AutoExperts
-    - Automotive Mechanic
-    - 2021 - Present
-
-* WillsPoint Ford
-    - Automotive Mechanic
-    - 6 months
-
-* TownEast Ford
-    - Automotive Mechanic
-    - 6 months
-
-* Oath Inc
-    - Web Developer
-    - 4 years
-    - [Oath Inc.](https://www.oathinc.org) (https://www.oathinc.org)
-
-* Chucks Mobile Mechanics
-    - Automotive Mechanic
-    - 1 year
-
-* Meineke Car Care Center
-    - Automotive Mechanic
-    - 2 years
-
-* U.S. Army
-    - Infantryman
-    - 10 years
-
-* Light Communications
-    - Jr. Software Engineer
-    - 1 year
-
-* Cyberhighway / Usurf America
-    - Business Technical Support Representitive.
-    - 1 year
+    - 1999 - 2001
+    - Provided technical support to business customers on-site and over the phone. Wrote and maintained call tracking software used internally. Managed network configurations and customer-facing hardware.
 
 * Solera Computers
-    - Network Engineer/Computer repair technician
+    - Network Engineer / Computer Repair Technician
     - 2 years
+    - Built, configured, and maintained network infrastructure for small business clients. Provided on-site and remote technical support.
+
+---
+
+## Selected Projects
+
+* [mikescave.us](https://mikescave.us) (https://mikescave.us)
+    - Built and maintain my personal website using Flask with FastAPI backend. Handles routing, blog, and project pages. Currently exploring AI integration to automate routine content and backend tasks.
+
+* [mkvhost](https://github.com/MikeCase/mkvhost) (https://github.com/MikeCase/mkvhost)
+    - Python CLI tool that automates virtual host provisioning end-to-end: creates DNS records via the Cloudflare API, then configures Apache, nginx, or Caddy to serve the site. Designed to spin up dev environments quickly for customer review.
+
+* [website_backend](https://github.com/MikeCase/website_backend) (https://github.com/MikeCase/website_backend)
+    - FastAPI backend API powering mikescave.us. Serves dynamic content and integrates with third-party services.
+
+* [dis-bot](https://github.com/MikeCase/dis-bot) (https://github.com/MikeCase/dis-bot)
+    - Python Discord bot with custom commands and automation. Explores bot-driven workflows and event handling.
+
+* [fastapi-docker](https://github.com/MikeCase/fastapi-docker) (https://github.com/MikeCase/fastapi-docker)
+    - Docker development environment for FastAPI. Documented the setup process on dev.to (67+ reactions). Used as a reference for containerized Python development workflows.
+
+* [ShareLinks](https://github.com/MikeCase/sharelinks) (https://github.com/MikeCase/sharelinks)
+    - Google Chrome extension that generates a QR code of the current page for easy mobile sharing. Published in the Chrome Web Store.
+
+* [DOSBoxLauncher](https://github.com/MikeCase/DOSBoxLauncher) (https://github.com/MikeCase/DOSBoxLauncher)
+    - GTK3 desktop application for managing a DOS game library and launching them with DOSBox. Features per-game config editing, a config editor with advanced settings (Mixer, MIDI, GUS), and automated testing. Built in Python with pytest and ruff linting. Originally designed and built by me; AI assistant contributed tests and UI polish.
+
+---
+
+## Writing
+
+- [dev.to/mikecase](https://dev.to/mikecase) (https://dev.to/mikecase) — Posts on Python, Docker, DevOps, AI, and tooling. Featured articles: "Python development environment in a Docker container" (67+ reactions), "Opencode for network systems administration" (AI/AIOps).
+
+---
+
+## Work History (Recent)
+
+* AutoExperts — Automotive Mechanic — 2021 - Present
+* WillsPoint Ford — Automotive Mechanic — 6 months
+* TownEast Ford — Automotive Mechanic — 6 months
+* Oath Inc — Web Developer / IT Consultant — 4 years
+* U.S. Army — Infantryman — 10 years
